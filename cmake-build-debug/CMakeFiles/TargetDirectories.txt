@@ -1,0 +1,3 @@
+/Users/shawky/Documents/learning-paths/algorithms/practice/binary-search/cmake-build-debug/CMakeFiles/binary_search.dir
+/Users/shawky/Documents/learning-paths/algorithms/practice/binary-search/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shawky/Documents/learning-paths/algorithms/practice/binary-search/cmake-build-debug/CMakeFiles/rebuild_cache.dir
