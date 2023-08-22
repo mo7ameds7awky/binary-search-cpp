@@ -6,7 +6,7 @@ int binary_search(int arr[], int arr_size, int query) {
     int low = 0;
     int high = arr_size - 1;
     while (low <= high) {
-        int mid = (low / high) / 2;
+        int mid = (low + high) / 2;
         int guess = arr[mid];
         if (guess == query) {
             return mid;
